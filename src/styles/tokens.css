@@ -1,0 +1,16 @@
+:root {
+  /* SuperCare Original Purple — H5-first design tokens */
+  --c-ink:#302d45; --c-body:#59576e; --c-muted:#89869e;
+  --c-brand:#667eea; --c-brand-dark:#574bc5; --c-brand-soft:#eeeaff;
+  --c-lime:#ece8ff; --c-lemon:#faf0ff; --c-bg:#f7f6fc; --c-paper:#fff;
+  --c-border:#e9e6f2; --c-warn:#996526; --c-warn-bg:#fff4dc;
+  --c-danger:#b84661; --c-danger-bg:#fff0f4; --c-blue:#6378db;
+  --gradient-brand:linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+  --radius-sm:10px; --radius-md:15px; --radius-lg:20px; --radius-xl:24px;
+  --shadow:0 8px 24px rgba(85,71,134,.045);
+  --shadow-strong:0 20px 60px rgba(53,34,103,.19);
+  --space-1:4px; --space-2:8px; --space-3:12px; --space-4:16px; --space-5:20px;
+  --space-6:24px; --space-8:32px; --space-10:40px;
+  --font:Inter,-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;
+  --content-width:1040px; --sidebar:228px;
+}
