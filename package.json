@@ -1,0 +1,13 @@
+{
+  "name": "supercare",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "超级护工 · 护理记录与交班静态应用",
+  "scripts": {
+    "dev": "node scripts/server.mjs",
+    "test:syntax": "node --check src/app.js && node --check src/icons.js && node --check src/storage.js && node --check src/models.js && node --check src/utils.js"
+  },
+  "engines": {"node": ">=18"},
+  "license": "UNLICENSED"
+}
