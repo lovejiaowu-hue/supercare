@@ -1,10 +1,17 @@
 # 超级护工 SuperCare
 
+## 在线体验
+
+**H5 正式体验地址：** https://lovejiaowu-hue.github.io/supercare/
+
+**发布方式：** `main` 分支推送 → GitHub Actions `Deploy SuperCare to GitHub Pages` → 自动发布。请在仓库 Settings → Pages → Build and deployment 中选择 `GitHub Actions`。当前以 **v1.1 紫色 H5 移动优先版本**为开发基线，PC 端仅作为数据查看和管理辅助界面。
+
+
 **知微万象 · 养老问问应用矩阵 / 轻量照护记录工具**
 
 面向护工、家属的手机优先记录工具：为长者或病患建立档案，记录每天的日常护理情况，用交班日报向接班人或家属传递信息。
 
-> 当前为 **v1.0 单机静态版**：无需登录、不自动上传健康数据、不具备真实多人同步、医疗诊断或 AI 审核功能。
+> 当前为 **v1.1 单机静态版**：无需登录、不自动上传健康数据、不具备真实多人同步、医疗诊断或 AI 审核功能。
 
 ## 立即使用
 
